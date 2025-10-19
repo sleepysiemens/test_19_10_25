@@ -6,7 +6,6 @@ namespace App\Services;
 
 use App\Models\HuntingBooking;
 use App\Rules\CheckIfGuideExist;
-use Carbon\Carbon;
 use Exception;
 use Illuminate\Database\Eloquent\Builder;
 use Throwable;
